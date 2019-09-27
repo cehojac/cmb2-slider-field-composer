@@ -1,0 +1,14 @@
+{
+    "name": "cehojac/CMB2-slider-field",
+    "description": "make slider fields for CMB2.",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin"],
+    "license": "MIT",
+    "homepage": "https://github.com/cehojac/CMB2-slider-field/new/master",
+    "authors": [
+        {
+            "name": "improy",
+            "email": ""
+        }
+    ]
+}
